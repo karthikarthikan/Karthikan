@@ -15,6 +15,6 @@
 ## 🌍 Connect with me
 
 - GitHub: [karthikarthikan](https://github.com/karthikarthikan)
-- LinkedIn:[(http://linkedin.com/in/karthikan-manoharasa-b47003379)]
+- LinkedIn:[Karthikan](http://linkedin.com/in/karthikan-manoharasa-b47003379)
 - Email: smkarthikan@gmail.com
 
