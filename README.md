@@ -4,13 +4,12 @@
 
 -  Computer Science student | Full Stack Developer
 -  Building real-world apps: School Management System, Billing System
--  Self-motivated learner, passionate about technology
 
 ##  Tech Stack
 
 - Frontend: ReactJS, HTML, CSS, Bootstrap
 - Backend: Laravel, Node.js, MySQL
-- Tools: Git, VS Code
+- Tools: GitHub, VS Code, Docker
 
 ##  Connect with me
 
