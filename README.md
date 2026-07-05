@@ -1,6 +1,6 @@
 # Hi, I'm Karthikan 
 
-##  About Me
+##  About Me   https://karthikarthikan.github.io/my-portfolio/
 
 -  Computer Science student | Full Stack Developer
 -  Building real-world apps: School Management System, Billing System
